@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: dubo0vbhd-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/dubo0vbhd-python
